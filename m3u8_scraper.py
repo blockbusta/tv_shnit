@@ -11,9 +11,10 @@ from selenium.webdriver.chrome.options import Options
 
 # Links to process
 links = [
-    "https://example1.com",
-    "https://example2.com",
-    "https://example3.com",
+"https://www.mako.co.il/mako-vod-keshet/eretz_nehederet-s6/VOD-a3734cebcd86e11006.htm",
+"https://www.mako.co.il/mako-vod-keshet/eretz_nehederet-s6/VOD-df31e9326998e11006.htm",
+"https://www.mako.co.il/mako-vod-keshet/eretz_nehederet-s6/VOD-53b91fe9acdce11004.htm",
+"https://www.mako.co.il/mako-vod-keshet/eretz_nehederet-s6/VOD-ce521d661c5fe11004.htm"
 ]
 
 # Chrome options to avoid bot detection
